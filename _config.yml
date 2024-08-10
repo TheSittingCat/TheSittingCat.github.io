@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Kaveh Eskandari
 description: Kaveh Eskandari's personal website
-logo: images/logo.jpg
+logo: /assets/images/logo.jpg
 color-scheme: dark
