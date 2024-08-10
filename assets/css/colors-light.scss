@@ -1,0 +1,6 @@
+@import "colors";
+
+:root {
+  @include colors;
+  @include light-colors;
+}
