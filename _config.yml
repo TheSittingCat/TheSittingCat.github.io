@@ -1,5 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: "godalming123/minimal"
 title: Kaveh Eskandari
 description: Kaveh Eskandari's personal website
 logo: /assets/images/logo.jpg
 color-scheme: dark
+plugins:
+- jekyll-remote-theme
