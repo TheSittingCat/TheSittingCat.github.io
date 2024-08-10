@@ -30,7 +30,7 @@
       }
       
       .account-logo {
-        width: 25px; /* Adjust size as needed */
+        width: 35px; /* Adjust size as needed */
         height: auto;
         margin-bottom: 10px; /* Add space between logo and text */
       }
@@ -46,6 +46,9 @@
         {% endif %}
 
         <p>{{ site.summary | default: site.github.project_tagline }}</p>
+
+        <br> <!-- Add space between header and account links -->
+        <br> <!-- Add space between header and account links -->
         
         <div class="account-container">
 
@@ -68,14 +71,6 @@
           </div>
 
         </div>
-
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
       </header>
       <section>
 
