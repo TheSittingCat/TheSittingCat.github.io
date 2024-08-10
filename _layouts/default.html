@@ -30,7 +30,7 @@
       }
       
       .account-logo {
-        width: 50px; /* Adjust size as needed */
+        width: 25px; /* Adjust size as needed */
         height: auto;
         margin-bottom: 10px; /* Add space between logo and text */
       }
@@ -52,33 +52,22 @@
           <div class="account-item">
             <a href="https://scholar.google.com/" target="_blank">
               <img src="/assets/images/google-scholar.1024x1024.png" alt="Google Scholar" class="account-logo">
-              <p>Google Scholar</p>
             </a>
           </div>
 
           <div class="account-item">
             <a href="https://www.linkedin.com/" target="_blank">
               <img src="/assets/images/linkedin-original.1024x1024.png" alt="LinkedIn" class="account-logo">
-              <p>LinkedIn</p>
             </a>
           </div>
 
           <div class="account-item">
             <a href="https://github.com/" target="_blank">
               <img src="/assets/images/github-desktop.1024x1024.png" alt="GitHub" class="account-logo">
-              <p>GitHub</p>
             </a>
           </div>
 
         </div>
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
