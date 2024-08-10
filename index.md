@@ -6,4 +6,4 @@ I am a PhD student in Computer Science at [Tufts University](https://www.tufts.e
 
 Prior to Tufts, I was a master's student in computer Science at [Worcester Polytechnic Institute](https://www.wpi.edu/) where I worked with [Dr. Rose Bohrer](https://users.wpi.edu/~rbohrer/) on Linear Logic Programming and its applications to exploit detection in Software Systems.
 
-I love talking about all-things NLP (also video games, fantasy and sci-fi books, and sports) and I am open to collaboration. Feel free to drop me an [email](kaveh.eskandari_miandoab@tufts.edu).
+I love talking about all-things NLP (also video games, fantasy and sci-fi books, and sports) and I am open to collaboration. Feel free to drop me an [email](mailto:kaveh.eskandari_miandoab@tufts.edu).
