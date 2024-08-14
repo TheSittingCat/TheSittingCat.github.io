@@ -3,6 +3,6 @@ title: Kaveh Eskandari
 description: Kaveh Eskandari's personal website
 logo: /assets/images/logo.jpg
 color-scheme: dark
-summary: I am a PhD student at Tufts University. I like to work on Natural Language Processing.
+summary: I am a PhD student at Tufts University. I like to work on Natural Language Processing problems.
 plugins:
 - jekyll-remote-theme
