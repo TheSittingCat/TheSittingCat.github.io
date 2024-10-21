@@ -8,6 +8,11 @@ Prior to Tufts, I was a master's student in computer Science at [Worcester Polyt
 
 I love talking about all-things NLP (also video games, fantasy and sci-fi books, and sports) and I am open to collaboration. Feel free to drop me an [email](mailto:kaveh.eskandari_miandoab@tufts.edu).
 
+## News
+
+I will be attending [EMNLP 2024](https://2024.emnlp.org/) to present our latest paper titled ""Let's Argue Both Sides": Argument Generation Can Force Small Models to Utilize Previously Inaccessible Reasoning Capabilities" at the [Workshop on Customizable NLP](https://customnlp4u-24.github.io/).  
+
 ## Publications
 
+["Let's Argue Both Sides": Argument Generation Can Force Small Models to Utilize Previously Inaccessible Reasoning Capabilities](https://arxiv.org/abs/2410.12997v1)
 [DiFair: A Benchmark for Disentangled Assessment of Gender Knowledge and Bias](https://aclanthology.org/2023.findings-emnlp.127) (Zakizadeh et al., Findings 2023)
