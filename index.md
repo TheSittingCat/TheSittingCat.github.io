@@ -15,4 +15,5 @@ I will be attending [EMNLP 2024](https://2024.emnlp.org/) to present our latest 
 ## Publications
 
 ["Let's Argue Both Sides": Argument Generation Can Force Small Models to Utilize Previously Inaccessible Reasoning Capabilities](https://arxiv.org/abs/2410.12997v1) (Kaveh Eskandari Miandoab and Vasanth Sarathy)
+
 [DiFair: A Benchmark for Disentangled Assessment of Gender Knowledge and Bias](https://aclanthology.org/2023.findings-emnlp.127) (Zakizadeh et al., Findings 2023)
