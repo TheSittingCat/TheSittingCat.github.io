@@ -10,6 +10,8 @@ I love talking about all-things NLP (also video games, fantasy and sci-fi books,
 
 ## News
 
+I will be serving as a reviewer for [ICLR](https://www.iclr.cc/Conferences/2025) in the Natural Language Processing (NLP) track. 
+
 I will be attending [EMNLP 2024](https://2024.emnlp.org/) to present our latest paper titled ""Let's Argue Both Sides": Argument Generation Can Force Small Models to Utilize Previously Inaccessible Reasoning Capabilities" at the [Workshop on Customizable NLP](https://customnlp4u-24.github.io/).  
 
 ## Publications
