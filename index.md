@@ -10,6 +10,10 @@ I love talking about all-things NLP (also video games, fantasy and sci-fi books,
 
 ## News
 
+I will be serving as a program committee member for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
+
+I will be serving as a reviewer for [AIES 2025](https://www.aies-conference.com/2025/).
+
 I will be serving as a reviewer for [AISTATS 2025](https://virtual.aistats.org/Conferences/2025) in the Natural Language Processing (NLP) track.
 
 I will be serving as a reviewer for [ICLR 2025](https://www.iclr.cc/Conferences/2025) in the Natural Language Processing (NLP) track. 
