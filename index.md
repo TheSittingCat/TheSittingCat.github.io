@@ -12,9 +12,9 @@ I love talking about all-things NLP (also video games, fantasy and sci-fi books,
 
 Two papers accepted for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/):
 
-    - [IntelliProof: An Argumentation Network-based Conversational Helper for Organized Reflection](https://arxiv.org/abs/2511.04528), accepted for Demonstration Track.
-    
-    - Where Norms and References Collide: Evaluating LLMs on Normative Reasoning, accepted for the main technical track.
+- [IntelliProof: An Argumentation Network-based Conversational Helper for Organized Reflection](https://arxiv.org/abs/2511.04528), accepted for Demonstration Track.
+
+- Where Norms and References Collide: Evaluating LLMs on Normative Reasoning, accepted for the main technical track.
 
 I will be serving as a program committee member for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 
