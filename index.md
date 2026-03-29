@@ -12,15 +12,13 @@ I love talking about all-things NLP (also video games, fantasy and sci-fi books,
 
 Happy to announce that we have one paper accepted for [LREC 2026](https://lrec2026.info/): 
 
-
 - [Breaking the Benchmark: Revealing LLM Bias via Minimal Contextual Augmentation](https://arxiv.org/abs/2510.23921).
-
 
 Two papers accepted for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/):
 
 - [IntelliProof: An Argumentation Network-based Conversational Helper for Organized Reflection](https://arxiv.org/abs/2511.04528), accepted for Demonstration Track.
 
--[Where Norms and References Collide: Evaluating LLMs on Normative Reasoning](https://arxiv.org/abs/2602.02975), accepted for the main technical track.
+- [Where Norms and References Collide: Evaluating LLMs on Normative Reasoning](https://arxiv.org/abs/2602.02975), accepted for the main technical track.
 
 I will be serving as a program committee member for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 
