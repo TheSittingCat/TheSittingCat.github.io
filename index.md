@@ -10,11 +10,15 @@ I love talking about all-things NLP (also video games, fantasy and sci-fi books,
 
 ## News
 
+Happy to announce that we have one paper accepted for [LREC 2026](https://lrec2026.info/): 
+
+- [Breaking the Benchmark: Revealing LLM Bias via Minimal Contextual Augmentation](https://arxiv.org/abs/2510.23921)
+
 Two papers accepted for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/):
 
 - [IntelliProof: An Argumentation Network-based Conversational Helper for Organized Reflection](https://arxiv.org/abs/2511.04528), accepted for Demonstration Track.
 
-- Where Norms and References Collide: Evaluating LLMs on Normative Reasoning, accepted for the main technical track.
+-[Where Norms and References Collide: Evaluating LLMs on Normative Reasoning](https://arxiv.org/abs/2602.02975), accepted for the main technical track.
 
 I will be serving as a program committee member for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 
@@ -28,6 +32,14 @@ I will be attending [EMNLP 2024](https://2024.emnlp.org/) to present our latest 
 
 ## Publications
 
-["Let's Argue Both Sides": Argument Generation Can Force Small Models to Utilize Previously Inaccessible Reasoning Capabilities](https://arxiv.org/abs/2410.12997v1) (Kaveh Eskandari Miandoab and Vasanth Sarathy)
+[IntelliProof: An Argumentation Network-based Conversational Helper for Organized Reflection](https://ojs.aaai.org/index.php/AAAI/article/view/42345) (**Kaveh Eskandari Miandoab**, Katharine Kowalyshyn, Kabir Pamnani, Anesu Gavhera, Vasanth Sarathy and Matthias Scheutz)
 
-[DiFair: A Benchmark for Disentangled Assessment of Gender Knowledge and Bias](https://aclanthology.org/2023.findings-emnlp.127) (Zakizadeh et al., Findings 2023)
+[Where Norms and References Collide: Evaluating LLMs on Normative Reasoning](https://arxiv.org/abs/2602.02975) (Mitchell Abrams, **Kaveh Eskandari Miandoab**, Felix Gervits, Vasanth Sarathy and Matthias Scheutz)
+
+[Breaking the Benchmark: Revealing LLM Bias via Minimal Contextual Augmentation](https://arxiv.org/abs/2510.23921) (**Kaveh Eskandari Miandoab**, Mahammed Kamruzzaman, Arshia Gharooni, Gene Louis Kim, Vasanth Sarathy and Ninareh Mehrabi)
+
+[Noise Injection Systemically Degrades Large Language Model Safety Guardrails](https://arxiv.org/abs/2505.13500) (Prithviraj Singh Shahani, **Kaveh Eskandari Miandoab** and Matthias Scheutz)
+
+["Let's Argue Both Sides": Argument Generation Can Force Small Models to Utilize Previously Inaccessible Reasoning Capabilities](https://arxiv.org/abs/2410.12997v1) (**Kaveh Eskandari Miandoab** and Vasanth Sarathy)
+
+[DiFair: A Benchmark for Disentangled Assessment of Gender Knowledge and Bias](https://aclanthology.org/2023.findings-emnlp.127) (Mahdi Zakizadeh, **Kaveh Eskandari Miandoab** and Mohammad Taher Pilehvar)
