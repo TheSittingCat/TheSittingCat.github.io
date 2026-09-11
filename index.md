@@ -43,8 +43,6 @@ NEWS ITEM TEMPLATE:
     </div>
   </div>
 
-<div class="timeline-list">
-
   <div class="timeline-item">
     <div class="timeline-date">February 2026</div>
     <div class="timeline-content">
