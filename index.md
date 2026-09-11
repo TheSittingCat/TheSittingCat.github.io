@@ -39,7 +39,7 @@ NEWS ITEM TEMPLATE:
   <div class="timeline-item">
     <div class="timeline-date">June 2026</div>
     <div class="timeline-content">
-      Excited to join <strong> Comcast </strong> as an AI Research Intern for the duration of the summer, where I will be working on self-evolving agents in multi-agent systems.</a>!
+      Excited to join <strong> Comcast </strong> as an AI Research Intern for the duration of the summer, where I will be working on self-evolving agents in multi-agent systems</a>!
     </div>
   </div>
 
