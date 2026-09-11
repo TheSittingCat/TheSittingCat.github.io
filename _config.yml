@@ -2,7 +2,21 @@ remote_theme: "godalming123/minimal"
 title: Kaveh Eskandari
 description: Kaveh Eskandari's personal website
 logo: /assets/images/logo.jpg
+title: "Kaveh Eskandari"
+full_name: "Kaveh Eskandari Miandoab"
+description: "PhD Student in Computer Science at Tufts University specializing in Natural Language Processing, LLM Bias & Fairness, and Argumentation."
+logo: "/assets/images/logo.jpg"
 color-scheme: dark
 summary: I am a PhD student at Tufts University. I like to work on Natural Language Processing problems.
+role: "PhD Student in Computer Science"
+affiliation: "Tufts University"
+affiliation_url: "https://www.tufts.edu/"
+advisor: "Dr. Vasanth Sarathy"
+advisor_url: "https://vsarathy.com/"
+email: "kaveh.eskandari_miandoab@tufts.edu"
+scholar: "https://scholar.google.com/citations?user=GmQ7n6EAAAAJ&hl=en"
+github: "https://github.com/TheSittingCat"
+linkedin: "https://www.linkedin.com/in/kaveh-eskandari-ab9564145/"
+summary: "PhD student in Computer Science at Tufts University. Researching Natural Language Processing, LLM bias mitigation, and argumentation."
 plugins:
 - jekyll-remote-theme
