@@ -37,6 +37,15 @@ NEWS ITEM TEMPLATE:
 <div class="timeline-list">
 
   <div class="timeline-item">
+    <div class="timeline-date">June 2026</div>
+    <div class="timeline-content">
+      Excited to join </strong> Comcast <strong> as an AI Research Intern for the duration of the summer, where I will be working on self-evolving agents in multi-agent systems.</a>!
+    </div>
+  </div>
+
+<div class="timeline-list">
+
+  <div class="timeline-item">
     <div class="timeline-date">February 2026</div>
     <div class="timeline-content">
       Happy to announce that our paper <strong>Breaking the Benchmark: Revealing LLM Bias via Minimal Contextual Augmentation</strong> has been accepted to <a href="https://lrec2026.info/" target="_blank" rel="noopener">LREC 2026</a>!
